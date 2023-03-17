@@ -1,7 +1,7 @@
 {
-  "name": "@nativescript-pusher/beams",
+  "name": "nativescript-beams",
   "version": "2.1.0",
-  "description": "Pusher Beams client for NativeScript",
+  "description": "Fork from https://github.com/triniwiz/nativescript-pusher. This library is just working update to new Nativescript core",
   "main": "beams",
   "typings": "index.d.ts",
   "nativescript": {
