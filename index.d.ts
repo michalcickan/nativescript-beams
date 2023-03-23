@@ -16,5 +16,7 @@ export declare class TNSPusherBeams {
     public static unregisterForPushNotifications(): Promise<any>;
 
     public static addOnInterestsChangeCallback(callback: (interests: string[]) => void);
+    
+    static clearAllState(): void;
 
 }
